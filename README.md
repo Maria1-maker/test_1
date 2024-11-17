@@ -12,7 +12,6 @@ def change(str):
             s.append(c)
      
     return ''.join(s)
-     
-# Driver code
+    
 str = input('')
 print(change(str))
